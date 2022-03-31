@@ -1,1 +1,4 @@
 # NGS-Group-Assignment
+
+## Workflow
+
