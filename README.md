@@ -2,7 +2,7 @@
 
 ## Link naar de Workflow
 
-[Galaxy workflow in .ga format]()
+[Galaxy workflow in .ga format](Galaxy-Workflow-Workflow__NGS_group_Assignment.ga)
 
 ## Afbeelding van de Workflow
 
