@@ -2,7 +2,7 @@
 
 ## Link naar de Workflow
 
-Here is a link to the [Workflow folder](./Workflows)
+[Galaxy workflow in .ga format]()
 
 ## Afbeelding van de Workflow
 
