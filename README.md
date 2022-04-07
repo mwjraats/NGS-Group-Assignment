@@ -4,7 +4,7 @@
 
 [Galaxy workflow in .ga format](Galaxy-Workflow-Workflow__NGS_group_Assignment.ga)
 
-[Link workflow in UseGalaxy](https://usegalaxy.eu/u/mirthe/w/workflow-ngs-group-assignment/json)
+[Link workflow in UseGalaxy](https://usegalaxy.eu/u/mirthe/w/workflow-ngs-group-assignment)
 
 ## Afbeelding van de Workflow
 
